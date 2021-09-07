@@ -12,7 +12,7 @@ Starter template to make life easier when starting new Django projects
    ```shell
    $ pip install -r requirements.txt
    ```
-3. Do a complete search and replace for `project_template` with whatever 
+3. Do a complete search and replace for `template_project` with whatever 
    name you want to give the project
 4. Django migrations
    ```shell
